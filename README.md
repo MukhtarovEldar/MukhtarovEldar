@@ -9,6 +9,8 @@ I'm a Computer Science student based in Poland, passionate about software develo
 - 🌱 Always eager to learn and explore new technologies.
 - 🤝 Open to collaboration and working on exciting projects.
 
+## Connect with Me
+
 - GitHub: [MukhtarovEldar](https://github.com/MukhtarovEldar)
 - LinkedIn: [Eldar Mukhtarov](https://www.linkedin.com/in/eldar-mukhtarov/)
 - Email: mukhtaroveldar05@gmail.com
